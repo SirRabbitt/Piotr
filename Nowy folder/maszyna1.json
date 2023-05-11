@@ -1,0 +1,13 @@
+{
+  "nazwa": "Frezarka CNC Lite 2",
+  "polaRobocze": ["500x300x100mm", "1500x800mm", "2000x1000mm"],
+  "mocWrzeciona": ["2.2kW", "7kW", "10kW"],
+  "mocSilnikowOsi": ["--", "--", "--"],
+  "rodzajMagazynu": ["--", "--", "--"],
+  "typChlodzenia": [
+    "Mgiełka olejowa",
+    "Chłodzenie powietrzne",
+    "Chłodzenie mieszane"
+  ],
+  "rodzajSterowania": ["FUSION 360", "--", "--"]
+}

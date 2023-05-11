@@ -1,0 +1,21 @@
+/* Stylizacja */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+select {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 20px;
+}

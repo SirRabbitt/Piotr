@@ -1,0 +1,9 @@
+{
+  "nazwa": "Tokarka CNC Mini 1",
+  "polaRobocze": ["430mm", "--", "--", "--"],
+  "mocWrzeciona": ["2.2kW", "5kW", "7kW"],
+  "mocSilnikowOsi": [" 2.Kw", "--", "--"],
+  "rodzajMagazynu": ["Magazyn liniowy narzędzi ", "--"],
+  "typChlodzenia": ["Chłodzenie powietrzne", "Chłodzenie mieszane"],
+  "rodzajSterowania": ["FUSION 360", "--"]
+}

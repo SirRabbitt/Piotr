@@ -1,0 +1,29 @@
+{
+  "nazwa": "Maszyna 3",
+  "polaRobocze": [
+    "800x400mm",
+    "1000x500mm",
+    "1200x600mm"
+  ],
+  "mocWrzeciona": [
+    "2kW",
+    "3kW",
+    "5kW"
+  ],
+  "mocSilnikowOsi": [
+    "1kW",
+    "2kW",
+    "3kW"
+  ],
+  "rodzajMagazynu": [
+    "MT",
+    "FT"
+  ],
+  "typChlodzenia": [
+    "Chłodzenie powietrzne"
+  ],
+  "rodzajSterowania": [
+    "CNC",
+    "PLC"
+  ]
+}

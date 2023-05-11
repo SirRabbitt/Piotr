@@ -1,0 +1,27 @@
+{
+  "nazwa": "Maszyna 4",
+  "polaRobocze": [
+    "600x300mm",
+    "800x400mm",
+    "1000x500mm"
+  ],
+  "mocWrzeciona": [
+    "1.5kW",
+    "2.2kW",
+    "3kW"
+  ],
+  "mocSilnikowOsi": [
+    "0.5kW",
+    "1kW",
+    "2kW"
+  ],
+ "rodzajMagazynu": [
+    "MT"
+  ],
+  "typChlodzenia": [
+    "Chłodzenie powietrzne"
+  ],
+  "rodzajSterowania": [
+    "PLC"
+  ]
+}

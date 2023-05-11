@@ -1,0 +1,27 @@
+{
+  "tabela1": [
+    "Opcja 1",
+    "Opcja 2",
+    "Opcja 3"
+  ],
+  "tabela2": [
+    "Opcja A",
+    "Opcja B",
+    "Opcja C"
+  ],
+  "tabela3": [
+    "Opcja X",
+    "Opcja Y",
+    "Opcja Z"
+  ],
+  "tabela4": [
+    "Opcja I",
+    "Opcja II",
+    "Opcja III"
+  ],
+  "tabela5": [
+    "Opcja Alpha",
+    "Opcja Beta",
+    "Opcja Gamma"
+  ]
+}
